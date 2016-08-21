@@ -1,0 +1,35 @@
+.logo{
+    display: inline-block;
+    height: 45px;
+    padding-top: 17px;
+    margin-left:170px ;
+}
+
+.main-menu{
+    display: inline-block;
+    position: absolute;
+    margin-top: 34px;
+    margin-left: 26px;
+    width: 666px;
+    height: 20px;
+    font-size: 14px;
+    font-family: "PTSans", sans-serif;
+}
+
+li{
+    display: inline;
+    list-style: none;
+    padding-left: 13px;
+}
+
+li a{
+    color: #999999;
+}
+
+.otherSide{
+    float: right;
+}
+
+.otherSide  a{
+    color:#ce1350;
+}

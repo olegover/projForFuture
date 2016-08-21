@@ -1,0 +1,157 @@
+.display-2{
+    position: relative;
+    background-color: #ffffff;
+    width: 1280px;
+    height: 703px;
+    font-family: "ProximaNova", sans-serif;
+    box-sizing: border-box;
+}
+
+
+.header-1{
+    color: #4182bd;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top:40px;
+    left:170px;
+}
+
+.for-slider-1{
+    position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    left:170px;
+    top: 185px;
+}
+
+.for-slider-2{
+    position: absolute;
+    font-size: 12px;
+    font-weight: bold;
+    left:273px;
+    top: 231px;
+}
+
+.header-2{
+    color: #4182bd;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    bottom:278px;
+    right:241px;
+}
+
+.usual-1{
+    font-size: 14px;
+    line-height: 13px;
+    position: absolute;
+    top: 81px;
+    left:170px;
+}
+
+
+.usual-2{
+    font-size: 14px;
+    line-height: 10px;
+    position: absolute;
+    bottom: 112px;
+    right:241px;
+}
+
+.bullet-2{
+    position: absolute;
+    top:295px;
+    right: 32px;
+}
+
+.button-display-2-1{
+    position: absolute;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 15px 15px;
+    top:167px;
+    right:290px;
+    width: 240px;
+    height: 50px;
+    background-color: #d43065;
+    font-family: "ProximaNova", sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    border:2px solid #ce1350;
+    color:#ffffff;
+}
+
+.button-display-2-2{
+    position: absolute;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 13px 15px;
+    bottom:50px;
+    left:590px;
+    width: 222px;
+    height: 46px;
+    background-color: #ffffff;
+    font-family: "ProximaNova", sans-serif;
+    font-weight: bold;
+    border-radius: 2px;
+    border:1px solid #000000;
+    color:#000000;
+}
+
+.button-display-2-2 a:hover{
+    background-color: #3d4258;
+    color:#ffffff ;
+}
+
+.ipad{
+    position: absolute;
+    bottom: 0;
+    left:170px;
+}
+
+.pict{
+    position: absolute;
+    bottom: 0;
+    left: 190px;
+}
+
+input{
+    position: absolute;
+    left:272px;
+    top:172px;
+    width: 150px;
+    height: 47px;
+    padding: 15px 10px;
+    box-sizing: border-box;
+}
+
+input.input{
+    font-weight: bold;
+    font-size: 16px;
+    color: #00a1a1;
+}
+
+.wrapper-for-slider{
+    position: absolute;
+    top: 187px;
+    left: 441px;
+}
+
+.slider {
+    border-radius: 5px;
+    background: #E0E0E0;
+    background: linear-gradient(#E0E0E0, #EEEEEE);
+    width: 270px;
+    height: 6px;
+    margin: 5px;
+}
+
+.thumb {
+    width: 10px;
+    height: 25px;
+    position: relative;
+    left: 0;
+    top: -10px;
+    cursor: pointer;
+}

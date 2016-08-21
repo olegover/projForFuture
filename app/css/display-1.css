@@ -1,0 +1,58 @@
+.display-1{
+    background-image: url("../image/display1.png");
+    background-position: -15px -102px;
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 623px;
+    margin-top: 12px;
+}
+
+.text-display-1{
+    position: absolute;
+    font-family: "ProximaNova", sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+    line-height: 60px;
+    background-color: rgba(148,132,163, 0.7);
+    font-weight: normal;
+}
+
+.line-1{
+    top:262px;
+    left: 151px;
+    padding: 0 20px;
+}
+
+.line-2{
+    top:322px;
+    left: 151px;
+    padding: 0 20px;
+}
+
+.line-3{
+    top:382px;
+    left: 151px;
+    padding: 0 20px;
+}
+
+.button-display-1{
+    position: absolute;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 16px 15px;
+    top:466px;
+    left:151px;
+    width: 238px;
+    height: 53px;
+    background-color: #5492cb;
+    color:#ffffff;
+    font-family: "ProximaNova", sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.bullet-1{
+    position: absolute;
+    top:315px;
+    right: 54px;
+}

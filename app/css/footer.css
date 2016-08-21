@@ -1,0 +1,24 @@
+
+.footer{
+    position: relative;
+    background-color: #42475c;
+    height: 60px;
+    top: -4px;
+    color: #ffffff;
+}
+
+.copyright{
+    position: absolute;
+    padding-top: 20px;
+    left:170px;
+}
+
+.research{
+    position: absolute;
+    left:855px;
+    padding-top: 20px;
+}
+
+.research a{
+    color: #ffffff;
+}
